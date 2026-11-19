@@ -1,6 +1,7 @@
-streamlit
+streamlit>=1.18
 pandas
 plotly
 seaborn
 matplotlib
+scikit-learn
 
